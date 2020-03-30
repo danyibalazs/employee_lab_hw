@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d7237f66-412f-4a98-8cd3-0d802daded00" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZqkKrujRIZl9JemtNPRoL3DZ7V" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RunManager" selected="JUnit.ManagerTest.cantRaiseWithNegative">
+    <configuration name="All in com.codeclan.example" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.canRaiseSalary" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
+      <option name="METHOD_NAME" value="canRaiseSalary" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.cantRaiseWithNegative" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
+      <option name="METHOD_NAME" value="cantRaiseWithNegative" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.checkPayBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
+      <option name="METHOD_NAME" value="checkPayBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ManagerTest.ckeckPayBonus" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="com.codeclan.example" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ManagerTest" />
+      <option name="METHOD_NAME" value="ckeckPayBonus" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ManagerTest.cantRaiseWithNegative" />
+        <item itemvalue="JUnit.All in com.codeclan.example" />
+        <item itemvalue="JUnit.ManagerTest.checkPayBonus" />
+        <item itemvalue="JUnit.ManagerTest.ckeckPayBonus" />
+        <item itemvalue="JUnit.ManagerTest.canRaiseSalary" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d7237f66-412f-4a98-8cd3-0d802daded00" name="Default Changelist" comment="" />
+      <created>1585573950881</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585573950881</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom" timestamp="1585581633266">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.68.1920.1080@0.0.1440.900" timestamp="1585576603986" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.91.1920.1057@0.0.1440.900" timestamp="1585577637990" />
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1585579170519" />
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585579957837" />
+    <state width="1398" height="243" key="GridCell.Tab.0.bottom/0.23.1440.827/1440.91.1920.1057@0.23.1440.827" timestamp="1585581633266" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center" timestamp="1585581633265">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.68.1920.1080@0.0.1440.900" timestamp="1585576603984" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900/1440.91.1920.1057@0.0.1440.900" timestamp="1585577637988" />
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1585579170518" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585579957836" />
+    <state width="1398" height="243" key="GridCell.Tab.0.center/0.23.1440.827/1440.91.1920.1057@0.23.1440.827" timestamp="1585581633265" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left" timestamp="1585581633264">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.68.1920.1080@0.0.1440.900" timestamp="1585576603983" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900/1440.91.1920.1057@0.0.1440.900" timestamp="1585577637987" />
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1585579170517" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585579957836" />
+    <state width="1398" height="243" key="GridCell.Tab.0.left/0.23.1440.827/1440.91.1920.1057@0.23.1440.827" timestamp="1585581633264" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right" timestamp="1585581633265">
+      <screen x="0" y="23" width="1440" height="827" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.68.1920.1080@0.0.1440.900" timestamp="1585576603986" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900/1440.91.1920.1057@0.0.1440.900" timestamp="1585577637989" />
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.23.1440.825/1440.91.1920.1057@0.23.1440.825" timestamp="1585579170519" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1440.826/1440.91.1920.1057@0.23.1440.826" timestamp="1585579957837" />
+    <state width="1398" height="243" key="GridCell.Tab.0.right/0.23.1440.827/1440.91.1920.1057@0.23.1440.827" timestamp="1585581633265" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1585574124777">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900/1440.68.1920.1080@0.0.1440.900" timestamp="1585574124777" />
+    <state x="378" y="85" width="683" height="729" key="find.popup" timestamp="1585577613185">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="378" y="85" width="683" height="729" key="find.popup/0.0.1440.900/1440.91.1920.1057@0.0.1440.900" timestamp="1585577613185" />
+  </component>
+</project>
